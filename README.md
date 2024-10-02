@@ -1,2 +1,2 @@
-Quadratic function with Python
+Math Functions with Python
 by 200Amper
