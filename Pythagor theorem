@@ -1,0 +1,15 @@
+import math #Necessary Import
+
+print("PYthagor")
+p=int(input("start tp 1 "))
+while p==1:
+  a=float(input("a = "))
+  b=float(input("b = "))
+  qa=a**2
+  qb=b**2
+  sm=qa+qb
+  c=math.sqrt(sm)
+  print("c=")
+  print(sm)
+  print(c)
+  p=int(input("cont? 1/0 "))
